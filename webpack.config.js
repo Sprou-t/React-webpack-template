@@ -7,7 +7,7 @@ const config = (env, argv) => {
 
   // Define the backend URL based on the mode(production)
   const backend_url = argv.mode === 'production'
-    ? 'https://notes-backend-black-darkness-8420.fly.dev/'
+    ? 'https://notes-backend-black-darkness-8420.fly.dev/' // will hv to change this in the future
     : 'http://localhost:3001/notes';
 
   return {
