@@ -1,4 +1,4 @@
-# React-webpacktemplate 
+# React-webpack template 
 
 
 ## Description
